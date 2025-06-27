@@ -3,6 +3,9 @@
   "version": "1.6.0",
   "description": "React Native Wheel Of Fortune Component.",
   "main": "index.js",
+  "peerDependencies": {
+  "react-native-svg": ">=12.1.0"
+},
   "scripts": {
     "test": "jest --coverage"
   },
